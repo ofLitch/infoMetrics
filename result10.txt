@@ -1,0 +1,420 @@
+Iteración 1
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 54577 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.26 MBytes  10.5 Mbits/sec
+[  1] Sent 4463 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.13 sec  6.20 MBytes  10.1 Mbits/sec   0.000 ms 40/4462 (0%)
+------------------------
+Iteración 2
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 37747 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.26 MBytes  10.5 Mbits/sec
+[  1] Sent 4463 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.06 sec  6.26 MBytes  10.4 Mbits/sec   0.000 ms 0/4462 (0%)
+------------------------
+Iteración 3
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 56021 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.12 sec  6.25 MBytes  10.2 Mbits/sec   0.000 ms 4/4461 (0%)
+------------------------
+Iteración 4
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 55853 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.01 sec  6.25 MBytes  10.5 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 5
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 44942 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 6
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 46450 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.12 sec  6.25 MBytes  10.3 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 7
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 39714 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.01 sec  6.25 MBytes  10.5 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 8
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 36454 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.06 sec  6.25 MBytes  10.4 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 9
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 39204 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.26 MBytes  10.5 Mbits/sec
+[  1] Sent 4463 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.01 sec  6.26 MBytes  10.5 Mbits/sec   0.000 ms 0/4462 (0%)
+------------------------
+Iteración 10
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 42298 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4461 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-4.99 sec  6.25 MBytes  10.5 Mbits/sec   0.000 ms 0/4460 (0%)
+------------------------
+Iteración 11
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 60804 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.04 sec  6.25 MBytes  10.4 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 12
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 33727 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.26 MBytes  10.5 Mbits/sec
+[  1] Sent 4463 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-4.96 sec  6.25 MBytes  10.6 Mbits/sec   0.000 ms 4/4462 (0%)
+------------------------
+Iteración 13
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 55807 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.09 sec  6.25 MBytes  10.3 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 14
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 39474 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.05 sec  6.25 MBytes  10.4 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 15
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 35232 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval        Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS  Rx/inP  Read/Timeo/Trunc  NetPwr
+[  1] 0.00-0.00 sec  4.00 GBytes  -nan bits/sec   0.000 ms 4294966796/0 (0%) -/-/-/- ms 0 pps 0/0/0(null)
+------------------------
+Iteración 16
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 36908 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.11 sec  6.25 MBytes  10.3 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 17
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 32933 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.26 MBytes  10.5 Mbits/sec
+[  1] Sent 4463 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.08 sec  6.25 MBytes  10.3 Mbits/sec   0.000 ms 1/4462 (0%)
+------------------------
+Iteración 18
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 33376 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4461 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.01 sec  6.25 MBytes  10.5 Mbits/sec   0.000 ms 0/4460 (0%)
+------------------------
+Iteración 19
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 56180 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.06 sec  6.25 MBytes  10.4 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 20
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 37297 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.05 sec  6.25 MBytes  10.4 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 21
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 47185 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.08 sec  6.25 MBytes  10.3 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 22
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 40609 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.01 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.17 sec  6.25 MBytes  10.2 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 23
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 52541 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.21 sec  6.24 MBytes  10.0 Mbits/sec   0.000 ms 8/4461 (0%)
+------------------------
+Iteración 24
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 36389 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.13 sec  6.25 MBytes  10.2 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 25
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 36761 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4461 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-4.95 sec  6.25 MBytes  10.6 Mbits/sec   0.000 ms 0/4460 (0%)
+------------------------
+Iteración 26
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 35242 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.11 sec  6.25 MBytes  10.3 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 27
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 33248 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-4.73 sec  6.25 MBytes  11.1 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 28
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 50927 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.03 sec  6.25 MBytes  10.4 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 29
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 40120 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.02 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4462 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-4.99 sec  6.25 MBytes  10.5 Mbits/sec   0.000 ms 0/4461 (0%)
+------------------------
+Iteración 30
+------------------------------------------------------------
+Client connecting to 192.168.135.54, UDP port 5001
+Sending 1470 byte datagrams, IPG target: 0.00 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 192.168.135.244 port 56605 connected with 192.168.135.54 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.00-5.00 sec  6.25 MBytes  10.5 Mbits/sec
+[  1] Sent 4460 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.00-5.05 sec  6.25 MBytes  10.4 Mbits/sec   0.000 ms 0/4459 (0%)
+------------------------
